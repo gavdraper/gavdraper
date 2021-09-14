@@ -5,7 +5,7 @@ Hi, I'm Gavin - Software Development Manager who loves all things software, I we
 * 🎩 SRE
 * 🎩 Manager 
  
-Getting on for 20 years in I still love what I do.
+Getting on for 20 years in the game and still loving it
 
 ## Get In Touch
 * Twitter [@gavdraper](http://twitter.com/gavdraper)
