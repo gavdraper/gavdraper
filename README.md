@@ -28,7 +28,10 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-
+![Azure Service Bus](https://img.shields.io/badge/Azure%20Service%20Bus-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![App Insights](https://img.shields.io/badge/App%20Insights-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat&logo=elastic&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ---
 
 ### ⚡ Fun Facts
