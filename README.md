@@ -5,5 +5,6 @@ Whether I’m building scalable platforms or running laps in my spare time, I be
 
 Let's connect!
 
-LinkedIn: gavdraper
-Website: gavindraper.com
+[LinkedIn](https://www.linkedin.com/in/gavdraper/)
+
+[Website](gavindraper.com)
