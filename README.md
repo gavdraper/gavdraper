@@ -31,15 +31,7 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gavdraper&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-
----
-
 ### ⚡ Fun Facts
 
-- 🏃‍♂️ Regular runner—ask me about my latest race!
-- 🥇 Advocate for lifelong learning & team growth.
+- 🏃‍♂️ Obsessed about running—ask me about my latest adventure!
+- 🥇 Advocate for lifelong learning & team growth. (Lets talk books!)
