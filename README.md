@@ -2,8 +2,6 @@
 
 ## 🚀 Engineering Leader | 👨‍💻 20+ Years XP 
 
----
-
 ### About Me
 
 - 🏗️ Engineering Manager with 20+ years of hands-on experience.
