@@ -16,10 +16,15 @@ I'm currently exploring and experimenting with different AI techniques to help e
 
 ## 🛠️ Hobby Projects
 
-  - **[Articyl](https://articyl.com)** — A personal content hub — save anything, consume anywhere. Save web content
-  via browser extension or mobile share target, subscribe to RSS feeds and podcasts, with YouTube and Twitter/X
+  - 📚 **[Articyl](https://articyl.com)** — A personal content hub — save anything, consume anywhere. Save web content
+   via browser extension or mobile share target, subscribe to RSS feeds and podcasts, with YouTube and Twitter/X
   content support coming soon. Listen to saved content with AI narration, read in a built-in reader with highlights
   and reading position sync, and deliver to e-readers as PDF/EPUB.
+
+  - 🐺 **[Moonlight Mayhem](https://moon.gavindraper.com)** — A digital take on classic social deduction games. One host
+  runs the game on a TV while up to 15 players join from their phones for fast social deduction rounds. Built with
+  ASP.NET Core and SignalR for real-time gameplay, with 16+ roles, leaderboards, and resilient reconnection so devices
+   can sleep and rejoin seamlessly.
 
 ---
 
