@@ -14,6 +14,13 @@
 
 I'm currently exploring and experimenting with different AI techniques to help engineering teams make the best use of AI in their daily workflows. My goal is to discover practical ways AI can boost productivity, automate repetitive tasks, and enable teams to focus on creative problem-solving. I'm excited to share what I learn and apply these insights to real-world engineering challenges!
 
+## 🛠️ Hobby Projects
+
+  - **[Articyl](https://articyl.com)** — A personal content hub — save anything, consume anywhere. Save web content
+  via browser extension or mobile share target, subscribe to RSS feeds and podcasts, with YouTube and Twitter/X
+  content support coming soon. Listen to saved content with AI narration, read in a built-in reader with highlights
+  and reading position sync, and deliver to e-readers as PDF/EPUB.
+
 ---
 
 ### 🔗 Connect with Me
